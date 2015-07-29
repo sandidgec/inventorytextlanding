@@ -1,0 +1,56 @@
+header {
+	background-color: darkgrey;
+	padding: 20px 0;
+	margin-bottom: 30px;
+}
+
+header h1 {
+	display: inline-block;
+	margin: 0;
+}
+
+footer {
+	background-color: darkgrey;
+	margin-top: 30px;
+	padding: 20px 0 10px 0;
+
+}
+
+/***
+* Flexbox Sticky Footer
+* http://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/
+***/
+
+/*corrects IE min-height bug*/
+html { display: flex;}
+body { width: 100%;}
+
+.sfooter {
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+}
+
+.sfooter-content {
+	flex: 1 0 auto;
+}
+
+.col-md-3 {
+	border: solid;
+	border-color: black;
+	display: flex;
+}
+
+
+.content1 {
+	border: solid;
+	border-color: black;
+	padding: 15px;
+	margin: 20px;
+	display: flex;
+}
+
+.footertext {
+	color: black;
+}
+

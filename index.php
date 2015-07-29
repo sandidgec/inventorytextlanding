@@ -11,10 +11,8 @@
 		<!-- Optional Bootstrap theme -->
 		<link type="text/css" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css" rel="stylesheet"/>
 
-		<!-- ////////////////////////////////////////////////
-		 //// LINK TO YOUR CUSTOM CSS FILES HERE
-		 //// <link type="text/css" href="css/style.css" rel="stylesheet"/>
-		 ///////////////////////////////////////////////////// -->
+
+		<link type="text/css" href="css/mystyle.css" rel="stylesheet"/>
 
 		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -31,9 +29,14 @@
 
 		<!-- Latest compiled and minified Bootstrap JavaScript, all compiled plugins included -->
 		<script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
-		<title>Bootstrap 101 Template (DDC Version!)</title>
+		<title>inventory TEXT</title>
 	</head>
 	<body>
+		<header>
+			<div class="container">
+				<h1>inventory TEXT</h1>
+			</div>
+		</header>
 		<div class="container">
 			<h1> Your new warehouse employee is Coming Soon! </h1>
 			<img src="./images/phoneExample.png" alt="Phone Example 1">
