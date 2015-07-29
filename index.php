@@ -6,7 +6,7 @@
 		<title> inventoryTEXT Coming Soon!</title>
 	</head>
 	<body>
-		coming soon!
+		<h1> YOUR NEW WAREHOUSE EMPLOYEE IS COMING SOON!</h1>
 		<img src="./images/phoneExample.png" alt="Phone Example 1">
 	</body>
 </html>
