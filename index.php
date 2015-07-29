@@ -7,6 +7,7 @@
 	</head>
 	<body>
 		coming soon!
+		<img src="./images/phoneExample.png" alt="Phone Example 1">
 	</body>
 </html>
 
