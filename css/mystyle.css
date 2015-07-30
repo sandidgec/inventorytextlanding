@@ -5,7 +5,7 @@ header {
 }
 
 header h1 {
-	display: inline-block;
+	display: inline;
 	margin: 0;
 }
 
@@ -52,5 +52,13 @@ body { width: 100%;}
 
 .footertext {
 	color: black;
+}
+
+img[alt="Inventory Text Logo"] {
+	display: inline-block;
+}
+
+h4 {
+	display: inline-block;
 }
 

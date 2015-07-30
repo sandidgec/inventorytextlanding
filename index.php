@@ -33,12 +33,11 @@
 	</head>
 	<body>
 		<header>
-			<div class="container">
-				<h1>inventory TEXT</h1>
-			</div>
+			<img src="images/invtextboxlogo.png" alt="Inventory Text Logo" class="img-responsive">
+			<h1> Inventory TEXT...</h1>
+			<h4>Welcome your new warehouse employee.</h4>
 		</header>
 		<div class="container">
-			<h1> Your new warehouse employee is Coming Soon! </h1>
 			<img src="./images/phoneExample.png" alt="Phone Example 1">
 		</div>
 	</body>
